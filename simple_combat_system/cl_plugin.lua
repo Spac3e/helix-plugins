@@ -1,4 +1,3 @@
-
 function PLUGIN:InitializedPlugins()
 	for k, v in pairs(ix.item.list) do
 		local weaponStats = WEAPON_STATS[v.class]
