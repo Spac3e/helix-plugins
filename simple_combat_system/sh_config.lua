@@ -1,4 +1,5 @@
-WEAPON_STATS = WEAPON_STATS or {} -- add you're weapons here
+--[[ Hello! Add you're weapon config here ]]--
+WEAPON_STATS = WEAPON_STATS or {}
 WEAPON_STATS["tfa_rtbr_smg1"] = {
 	["damage"] = 15,
 	["attrib"] = 10,
