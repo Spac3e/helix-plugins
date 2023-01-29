@@ -1,4 +1,3 @@
-
 function PLUGIN:EntityTakeDamage(target, damageInfo)
 	local targetIsPlayer = target:IsPlayer()
 	local attacker = damageInfo:GetAttacker()
