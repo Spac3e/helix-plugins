@@ -1,7 +1,7 @@
 
 # -Spac3 Open Source Plugins
 
-In this repository you can find sometype plugins for  [Helix](https://github.com/nebulouscloud/helix)
+In this repository you can find some type plugins for  [Helix](https://github.com/nebulouscloud/helix)
 
 Terms of use :
 
